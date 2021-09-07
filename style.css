@@ -25,21 +25,21 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(file:///Users/murakaminagomi/Downloads/chapter9_exercise/img/flow01.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img2 {
   height: 150px;
-  background-image: url(file:///Users/murakaminagomi/Downloads/chapter9_exercise/img/flow02.png);
+  background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(file:///Users/murakaminagomi/Downloads/chapter9_exercise/img/flow03.png);
+  background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
@@ -75,19 +75,6 @@ footer {
     margin: 20px;
   }
 
-  .step-img1 {
-    background-image: url(file:///Users/murakaminagomi/Downloads/chapter10_exercise/img/flow01.png);
-  }
-
-  .step-img2 {
-    background-image: url(file:///Users/murakaminagomi/Downloads/chapter10_exercise/img/flow02.png);
-  }
-
-  .step-img3 {
-    background-image: url(file:///Users/murakaminagomi/Downloads/chapter10_exercise/img/flow03.png);
-  }
-
   footer {
     width: 100%;
   }
-}
